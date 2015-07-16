@@ -1,4 +1,4 @@
-class LeadsController < ApplicationController
+class Api::V1::LeadsController < ApplicationController
   before_action :set_lead, only: [:show, :update, :destroy]
 
   def index

@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+eric:
+  first_name: Eric
+  last_name: Guo
+  email: eric@cloud-mes.com
+  phone: 13901862171
+  status: new
+  notes:
+
+alpha:
+  first_name: Alpha
+  last_name: Yu
+  email:
+  phone:
+  status:
+  notes:

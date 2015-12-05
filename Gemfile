@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'rails', '4.2.4'
+gem 'rails', '~> 4.2.5'
 gem 'rails-api'
-gem 'active_model_serializers', '~> 0.10.0.rc2'
+gem 'active_model_serializers', '~> 0.10.0.rc3'
 
 gem 'spring', group: :development, platform: :ruby
 
@@ -22,4 +22,3 @@ gem 'sqlite3'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
-gem 'nokogiri', '~> 1.6.7.rc3'

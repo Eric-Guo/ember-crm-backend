@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'rails', '~> 4.2.5'
+gem 'rails', '~> 4.2.6'
 gem 'rails-api'
-gem 'active_model_serializers', '~> 0.10.0.rc3'
+gem 'active_model_serializers', '~> 0.10.0.rc4'
 
 gem 'spring', group: :development, platform: :ruby
 
